@@ -8,16 +8,16 @@
     <br>
     <h4>Alamat</h4>
     <ul type="none">
-        <li> Jalan slipi</li>
+        <li> Jalan Anggrek Garuda</li>
     </ul>
 
     <h4>Tempat Lahir</h4>
     <ul type="none">
-        <li>Jakarta</li>
+        <li>Pangkalpinang</li>
     </ul>
     <h4>Olah Raga Favorit</h4>
     <ul type="square">
         <li>Game</li>
-        <li>DOTA 2</li>
+        <li>Counter Strike - Global Offensive</li>
     </ul>
 </section>
